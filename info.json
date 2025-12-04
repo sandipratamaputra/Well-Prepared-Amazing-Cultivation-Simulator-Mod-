@@ -1,0 +1,23 @@
+{
+  "Name":"Well Prepared",
+  "DisplayName":"Well Prepared",
+  "GameVersion":1.07,
+  "Version":1.3,
+  "Desc":
+    "[Author/作者]
+    \r\ndeliveryservice
+    \r\n[Description/简介]
+    \r\nThis mod adds starting experiences for extra points (+4, +14, +34, +74) and starting disciples. (+3, +4)",
+  "Author":"DeliveryService",
+  "UIPackage":null,
+  "ID":"2306067068",
+  "Flag":926445391,
+  "Tags":["Function","Content","ExcludeRealmsHeaven","Non-Chinese","Usability","Non-Chinese"],
+  "IncreasedDesc":
+    "1.1 - Fixed typo and formatting.
+    \n1.2 - fixed dependency grouping to vanilla for more disciples starting story.
+    \n1.3 - Changed names and description to make it better, changed the first additional disciple tier to add +2 disciple instead of +3",
+  "IsInsideCreat":false,
+  "Previews":[],
+  "ParentModInfo":null
+}
